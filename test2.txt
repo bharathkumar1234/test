@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 64F0-4B5F
-
- Directory of C:\Users\BHARATH-PC\Desktop\Myproject
-
-30-10-2019  12:40    <DIR>          .
-30-10-2019  12:40    <DIR>          ..
-30-10-2019  12:39               349 test1
-30-10-2019  12:40                 0 test2.txt
-               2 File(s)            349 bytes
-               2 Dir(s)  280,535,891,968 bytes free
+new text file
